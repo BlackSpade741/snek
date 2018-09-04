@@ -1,4 +1,4 @@
-#SNEK
+# SNEK
 
 This is the classic snake game reimagined in Verilog! Build it with 
 Quartus, and connect it to a DE1-SOC board to work.
